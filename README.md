@@ -1,4 +1,4 @@
-# Contact Managment Application 
+# Contact Management Application 
 
 ## What I Learned
 This project is a contact management application that gives you the ability to view, add, and update contacts. The backend is built with Django and hosted on heroku. 
