@@ -5,8 +5,9 @@ This project is a contact management application that gives you the ability to v
 
 Technologies: HTML, CSS, JS, React, React Router and Context API.
 
+## View the Project
 
-http://contact-list-brianlogsdon.c9users.io:8080/
+https://brianlogsdon.github.io/contact-management/
 
 ## Authors
 
