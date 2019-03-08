@@ -9,6 +9,6 @@ Technologies: HTML, CSS, JS, React, React Router and Context API.
 
 https://brianlogsdon.github.io/contact-management/
 
-## Authors
+## Author
 
 * **Brian Logsdon**
